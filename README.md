@@ -20,6 +20,10 @@
 
 <img src="imgMds/saltoObjetos.png" alt="saltoObjetos" width="350" height="200"/>
 
+Se mueve el fondo en loop (en eje x) y van entrando objetos (cajas) al marco y desaparecen cuando llegan a una cierta posición en x. El personaje se queda en la misma posición de x pero cuando se una la `space bar` se eleva en eje y simulando un salto, se utilizan animaciones del personaje para que el movimiento sea más suave.
+
+Para más información sobre como utilizar las animaciones de un modelo consultar [este archivo](MovimientoPersonaje.md).
+
 #### Referencias
 
 https://www.udemy.com/course/unity-curso-completo-profesional-de-programacion-desde-cero/
