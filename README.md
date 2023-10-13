@@ -1,5 +1,11 @@
 # Intro a Unity
 
+## Intro a interfaces gráficas
+
+Un manual sobre los componentes básicos y más usados de una interfaz gráfica.
+
+[Explicacion GUI](InterfazDeUsuario.md)
+
 ## Estructura Repositorio
 
 ### Explosión Objetos
