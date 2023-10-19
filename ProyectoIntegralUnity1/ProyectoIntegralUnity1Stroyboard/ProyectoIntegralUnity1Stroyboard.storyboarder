@@ -1,0 +1,1601 @@
+{
+  "version": "2.1.0",
+  "aspectRatio": "1.7777777777777777",
+  "fps": 25,
+  "defaultBoardTiming": 2000,
+  "boards": [
+    {
+      "uid": "P4PXA",
+      "url": "board-1-P4PXA.png",
+      "newShot": false,
+      "lastEdited": 1697689236073,
+      "layers": {
+        "reference": {
+          "url": "board-1-P4PXA-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-1-P4PXA-tone.png"
+        },
+        "pencil": {
+          "url": "board-1-P4PXA-pencil.png"
+        },
+        "ink": {
+          "url": "board-1-P4PXA-ink.png"
+        },
+        "notes": {
+          "url": "board-1-P4PXA-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-1-P4PXA-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-1-P4PXA-fill.png"
+        }
+      },
+      "number": 1,
+      "shot": "1A",
+      "time": 0,
+      "lineMileage": 5306.149350728295,
+      "notes": "Sale del suelo el rectangulo y va creciendo\n\nTambién van a estar los diferentes tipos de reflectores y se van a poder mover",
+      "duration": "1000"
+    },
+    {
+      "uid": "1POFO",
+      "url": "board-3-1POFO.png",
+      "newShot": false,
+      "lastEdited": 1697689548056,
+      "layers": {
+        "reference": {
+          "url": "board-3-1POFO-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-3-1POFO-tone.png"
+        },
+        "pencil": {
+          "url": "board-3-1POFO-pencil.png"
+        },
+        "ink": {
+          "url": "board-3-1POFO-ink.png"
+        },
+        "notes": {
+          "url": "board-3-1POFO-notes.png"
+        }
+      },
+      "number": 2,
+      "shot": "2A",
+      "time": 1000,
+      "lineMileage": 5306.149350728295,
+      "duration": "1000"
+    },
+    {
+      "uid": "KL4JV",
+      "url": "board-3-KL4JV.png",
+      "newShot": false,
+      "lastEdited": 1697689515666,
+      "layers": {
+        "reference": {
+          "url": "board-3-KL4JV-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-3-KL4JV-tone.png"
+        },
+        "pencil": {
+          "url": "board-3-KL4JV-pencil.png"
+        },
+        "ink": {
+          "url": "board-3-KL4JV-ink.png"
+        },
+        "notes": {
+          "url": "board-3-KL4JV-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-3-KL4JV-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-3-KL4JV-fill.png"
+        }
+      },
+      "number": 3,
+      "shot": "3A",
+      "time": 2000,
+      "lineMileage": 10022.8481277723,
+      "duration": "1000"
+    },
+    {
+      "uid": "0XPEK",
+      "url": "board-5-0XPEK.png",
+      "newShot": false,
+      "lastEdited": 1697689578967,
+      "layers": {
+        "reference": {
+          "url": "board-5-0XPEK-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-5-0XPEK-tone.png"
+        },
+        "pencil": {
+          "url": "board-5-0XPEK-pencil.png"
+        },
+        "ink": {
+          "url": "board-5-0XPEK-ink.png"
+        },
+        "notes": {
+          "url": "board-5-0XPEK-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-5-0XPEK-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-5-0XPEK-fill.png"
+        }
+      },
+      "number": 4,
+      "shot": "4A",
+      "time": 3000,
+      "lineMileage": 11509.736873186626,
+      "duration": "1000"
+    },
+    {
+      "uid": "3D3OA",
+      "url": "board-6-3D3OA.png",
+      "newShot": false,
+      "lastEdited": 1697689667240,
+      "layers": {
+        "reference": {
+          "url": "board-6-3D3OA-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-6-3D3OA-tone.png"
+        },
+        "pencil": {
+          "url": "board-6-3D3OA-pencil.png"
+        },
+        "ink": {
+          "url": "board-6-3D3OA-ink.png"
+        },
+        "notes": {
+          "url": "board-6-3D3OA-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-6-3D3OA-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-6-3D3OA-fill.png"
+        }
+      },
+      "number": 5,
+      "shot": "5A",
+      "time": 4000,
+      "lineMileage": 16057.677597512968,
+      "notes": "Cae del cielo un rectangulo amarillo",
+      "duration": "1000"
+    },
+    {
+      "uid": "IO89N",
+      "url": "board-6-IO89N.png",
+      "newShot": false,
+      "lastEdited": 1697689719971,
+      "layers": {
+        "reference": {
+          "url": "board-6-IO89N-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-6-IO89N-tone.png"
+        },
+        "pencil": {
+          "url": "board-6-IO89N-pencil.png"
+        },
+        "ink": {
+          "url": "board-6-IO89N-ink.png"
+        },
+        "notes": {
+          "url": "board-6-IO89N-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-6-IO89N-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-6-IO89N-fill.png"
+        }
+      },
+      "number": 6,
+      "shot": "6A",
+      "time": 5000,
+      "lineMileage": 14089.603019972605,
+      "duration": "1000"
+    },
+    {
+      "uid": "904Z0",
+      "url": "board-6-904Z0.png",
+      "newShot": false,
+      "lastEdited": 1697689743592,
+      "layers": {
+        "reference": {
+          "url": "board-6-904Z0-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-6-904Z0-tone.png"
+        },
+        "pencil": {
+          "url": "board-6-904Z0-pencil.png"
+        },
+        "ink": {
+          "url": "board-6-904Z0-ink.png"
+        },
+        "notes": {
+          "url": "board-6-904Z0-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-6-904Z0-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-6-904Z0-fill.png"
+        }
+      },
+      "number": 7,
+      "shot": "7A",
+      "time": 6000,
+      "lineMileage": 13878.625780108563,
+      "duration": "1000"
+    },
+    {
+      "uid": "HE9QT",
+      "url": "board-9-HE9QT.png",
+      "newShot": false,
+      "lastEdited": 1697689770993,
+      "layers": {
+        "reference": {
+          "url": "board-9-HE9QT-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-9-HE9QT-tone.png"
+        },
+        "pencil": {
+          "url": "board-9-HE9QT-pencil.png"
+        },
+        "ink": {
+          "url": "board-9-HE9QT-ink.png"
+        },
+        "notes": {
+          "url": "board-9-HE9QT-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-9-HE9QT-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-9-HE9QT-fill.png"
+        }
+      },
+      "number": 8,
+      "shot": "8A",
+      "time": 7000,
+      "lineMileage": 20809.8719138789,
+      "notes": "Cuando choca con el otro rectangulo \"saca\" pequeños rectangulos del interior del rectángulo mayor",
+      "duration": "1000"
+    },
+    {
+      "uid": "9BEE1",
+      "url": "board-9-9BEE1.png",
+      "newShot": false,
+      "lastEdited": 1697689891348,
+      "layers": {
+        "reference": {
+          "url": "board-9-9BEE1-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-9-9BEE1-tone.png"
+        },
+        "pencil": {
+          "url": "board-9-9BEE1-pencil.png"
+        },
+        "ink": {
+          "url": "board-9-9BEE1-ink.png"
+        },
+        "notes": {
+          "url": "board-9-9BEE1-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-9-9BEE1-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-9-9BEE1-fill.png"
+        }
+      },
+      "number": 9,
+      "shot": "9A",
+      "time": 8000,
+      "lineMileage": 14268.887804590182,
+      "duration": "1000"
+    },
+    {
+      "uid": "PIORY",
+      "url": "board-11-PIORY.png",
+      "newShot": false,
+      "lastEdited": 1697690114305,
+      "layers": {
+        "reference": {
+          "url": "board-11-PIORY-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-11-PIORY-tone.png"
+        },
+        "pencil": {
+          "url": "board-11-PIORY-pencil.png"
+        },
+        "ink": {
+          "url": "board-11-PIORY-ink.png"
+        },
+        "notes": {
+          "url": "board-11-PIORY-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-11-PIORY-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-11-PIORY-fill.png"
+        }
+      },
+      "number": 10,
+      "shot": "10A",
+      "time": 9000,
+      "lineMileage": 14664.867722955556,
+      "notes": "Una esfera viene bajando desde el techo pero en diagonal",
+      "duration": "1000"
+    },
+    {
+      "uid": "I5V34",
+      "url": "board-11-I5V34.png",
+      "newShot": false,
+      "lastEdited": 1697690119699,
+      "layers": {
+        "reference": {
+          "url": "board-11-I5V34-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-11-I5V34-tone.png"
+        },
+        "pencil": {
+          "url": "board-11-I5V34-pencil.png"
+        },
+        "ink": {
+          "url": "board-11-I5V34-ink.png"
+        },
+        "notes": {
+          "url": "board-11-I5V34-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-11-I5V34-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-11-I5V34-fill.png"
+        }
+      },
+      "number": 11,
+      "shot": "11A",
+      "time": 10000,
+      "lineMileage": 14856.66171472002,
+      "duration": "1000"
+    },
+    {
+      "uid": "FJS5P",
+      "url": "board-12-FJS5P.png",
+      "newShot": false,
+      "lastEdited": 1697690129981,
+      "layers": {
+        "reference": {
+          "url": "board-12-FJS5P-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-12-FJS5P-tone.png"
+        },
+        "pencil": {
+          "url": "board-12-FJS5P-pencil.png"
+        },
+        "ink": {
+          "url": "board-12-FJS5P-ink.png"
+        },
+        "notes": {
+          "url": "board-12-FJS5P-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-12-FJS5P-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-12-FJS5P-fill.png"
+        }
+      },
+      "number": 12,
+      "shot": "12A",
+      "time": 11000,
+      "lineMileage": 17193.56836604083,
+      "duration": "1000"
+    },
+    {
+      "uid": "XJ3HZ",
+      "url": "board-11-XJ3HZ.png",
+      "newShot": false,
+      "lastEdited": 1697690144649,
+      "layers": {
+        "reference": {
+          "url": "board-11-XJ3HZ-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-11-XJ3HZ-tone.png"
+        },
+        "pencil": {
+          "url": "board-11-XJ3HZ-pencil.png"
+        },
+        "ink": {
+          "url": "board-11-XJ3HZ-ink.png"
+        },
+        "notes": {
+          "url": "board-11-XJ3HZ-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-11-XJ3HZ-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-11-XJ3HZ-fill.png"
+        }
+      },
+      "number": 13,
+      "shot": "13A",
+      "time": 12000,
+      "lineMileage": 15127.608047396165,
+      "duration": "1000"
+    },
+    {
+      "uid": "ZPJ3S",
+      "url": "board-15-ZPJ3S.png",
+      "newShot": false,
+      "lastEdited": 1697690088667,
+      "layers": {
+        "reference": {
+          "url": "board-15-ZPJ3S-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-15-ZPJ3S-tone.png"
+        },
+        "pencil": {
+          "url": "board-15-ZPJ3S-pencil.png"
+        },
+        "ink": {
+          "url": "board-15-ZPJ3S-ink.png"
+        },
+        "notes": {
+          "url": "board-15-ZPJ3S-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-15-ZPJ3S-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-15-ZPJ3S-fill.png"
+        }
+      },
+      "number": 14,
+      "shot": "14A",
+      "time": 13000,
+      "lineMileage": 16179.638862199621,
+      "duration": "1000"
+    },
+    {
+      "uid": "WELXR",
+      "url": "board-16-WELXR.png",
+      "newShot": false,
+      "lastEdited": 1697690990859,
+      "layers": {
+        "reference": {
+          "url": "board-16-WELXR-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-16-WELXR-tone.png"
+        },
+        "pencil": {
+          "url": "board-16-WELXR-pencil.png"
+        },
+        "ink": {
+          "url": "board-16-WELXR-ink.png"
+        },
+        "notes": {
+          "url": "board-16-WELXR-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-16-WELXR-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-16-WELXR-fill.png"
+        }
+      },
+      "number": 15,
+      "shot": "15A",
+      "time": 14000,
+      "lineMileage": 22981.5293366295,
+      "notes": "no se queda quieta, como que trae mucha fuerza y se balancea antes de quedarse en su posición",
+      "duration": "1000"
+    },
+    {
+      "uid": "9GVWU",
+      "url": "board-16-9GVWU.png",
+      "newShot": false,
+      "lastEdited": 1697690173971,
+      "layers": {
+        "reference": {
+          "url": "board-16-9GVWU-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-16-9GVWU-tone.png"
+        },
+        "pencil": {
+          "url": "board-16-9GVWU-pencil.png"
+        },
+        "ink": {
+          "url": "board-16-9GVWU-ink.png"
+        },
+        "notes": {
+          "url": "board-16-9GVWU-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-16-9GVWU-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-16-9GVWU-fill.png"
+        }
+      },
+      "number": 16,
+      "shot": "16A",
+      "time": 15000,
+      "lineMileage": 16775.323315114932,
+      "notes": "Cuando ya está la esfera en su posición empuja y salen rectangulitos otra vez (ahora ya salen todos)",
+      "duration": "1000"
+    },
+    {
+      "uid": "NN6JI",
+      "url": "board-17-NN6JI.png",
+      "newShot": false,
+      "lastEdited": 1697690237435,
+      "layers": {
+        "reference": {
+          "url": "board-17-NN6JI-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-17-NN6JI-tone.png"
+        },
+        "pencil": {
+          "url": "board-17-NN6JI-pencil.png"
+        },
+        "ink": {
+          "url": "board-17-NN6JI-ink.png"
+        },
+        "notes": {
+          "url": "board-17-NN6JI-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-17-NN6JI-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-17-NN6JI-fill.png"
+        }
+      },
+      "number": 17,
+      "shot": "17A",
+      "time": 16000,
+      "lineMileage": 17578.484884053756,
+      "notes": "",
+      "duration": "1000"
+    },
+    {
+      "uid": "A15UJ",
+      "url": "board-18-A15UJ.png",
+      "newShot": false,
+      "lastEdited": 1697690250301,
+      "layers": {
+        "reference": {
+          "url": "board-18-A15UJ-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-18-A15UJ-tone.png"
+        },
+        "pencil": {
+          "url": "board-18-A15UJ-pencil.png"
+        },
+        "ink": {
+          "url": "board-18-A15UJ-ink.png"
+        },
+        "notes": {
+          "url": "board-18-A15UJ-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-18-A15UJ-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-18-A15UJ-fill.png"
+        }
+      },
+      "number": 18,
+      "shot": "18A",
+      "time": 17000,
+      "lineMileage": 18077.22007769264,
+      "duration": "1000"
+    },
+    {
+      "uid": "4A48D",
+      "url": "board-19-4A48D.png",
+      "newShot": false,
+      "lastEdited": 1697690268316,
+      "layers": {
+        "reference": {
+          "url": "board-19-4A48D-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-19-4A48D-tone.png"
+        },
+        "pencil": {
+          "url": "board-19-4A48D-pencil.png"
+        },
+        "ink": {
+          "url": "board-19-4A48D-ink.png"
+        },
+        "notes": {
+          "url": "board-19-4A48D-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-19-4A48D-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-19-4A48D-fill.png"
+        }
+      },
+      "number": 19,
+      "shot": "19A",
+      "time": 18000,
+      "lineMileage": 19147.341625976944,
+      "duration": "1000"
+    },
+    {
+      "uid": "RJL8Y",
+      "url": "board-20-RJL8Y.png",
+      "newShot": false,
+      "lastEdited": 1697690282904,
+      "layers": {
+        "reference": {
+          "url": "board-20-RJL8Y-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-20-RJL8Y-tone.png"
+        },
+        "pencil": {
+          "url": "board-20-RJL8Y-pencil.png"
+        },
+        "ink": {
+          "url": "board-20-RJL8Y-ink.png"
+        },
+        "notes": {
+          "url": "board-20-RJL8Y-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-20-RJL8Y-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-20-RJL8Y-fill.png"
+        }
+      },
+      "number": 20,
+      "shot": "20A",
+      "time": 19000,
+      "lineMileage": 20217.99228947278,
+      "duration": "1000"
+    },
+    {
+      "uid": "QR7CA",
+      "url": "board-21-QR7CA.png",
+      "newShot": false,
+      "lastEdited": 1697690320916,
+      "layers": {
+        "reference": {
+          "url": "board-21-QR7CA-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-21-QR7CA-tone.png"
+        },
+        "pencil": {
+          "url": "board-21-QR7CA-pencil.png"
+        },
+        "ink": {
+          "url": "board-21-QR7CA-ink.png"
+        },
+        "notes": {
+          "url": "board-21-QR7CA-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-21-QR7CA-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-21-QR7CA-fill.png"
+        }
+      },
+      "number": 21,
+      "shot": "21A",
+      "time": 20000,
+      "lineMileage": 23079.60727232836,
+      "notes": "Cae otro rectangulo del techo pero va girando",
+      "duration": "1000"
+    },
+    {
+      "uid": "E8LQ3",
+      "url": "board-21-E8LQ3.png",
+      "newShot": false,
+      "lastEdited": 1697690349771,
+      "layers": {
+        "reference": {
+          "url": "board-21-E8LQ3-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-21-E8LQ3-tone.png"
+        },
+        "pencil": {
+          "url": "board-21-E8LQ3-pencil.png"
+        },
+        "ink": {
+          "url": "board-21-E8LQ3-ink.png"
+        },
+        "notes": {
+          "url": "board-21-E8LQ3-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-21-E8LQ3-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-21-E8LQ3-fill.png"
+        }
+      },
+      "number": 22,
+      "shot": "22A",
+      "time": 21000,
+      "lineMileage": 25557.0743974141,
+      "duration": "1000"
+    },
+    {
+      "uid": "YCH01",
+      "url": "board-21-YCH01.png",
+      "newShot": false,
+      "lastEdited": 1697690418947,
+      "layers": {
+        "reference": {
+          "url": "board-21-YCH01-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-21-YCH01-tone.png"
+        },
+        "pencil": {
+          "url": "board-21-YCH01-pencil.png"
+        },
+        "ink": {
+          "url": "board-21-YCH01-ink.png"
+        },
+        "notes": {
+          "url": "board-21-YCH01-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-21-YCH01-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-21-YCH01-fill.png"
+        }
+      },
+      "number": 23,
+      "shot": "23A",
+      "time": 22000,
+      "lineMileage": 22922.268413008554,
+      "duration": "1000"
+    },
+    {
+      "uid": "T5H8N",
+      "url": "board-21-T5H8N.png",
+      "newShot": false,
+      "lastEdited": 1697690451738,
+      "layers": {
+        "reference": {
+          "url": "board-21-T5H8N-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-21-T5H8N-tone.png"
+        },
+        "pencil": {
+          "url": "board-21-T5H8N-pencil.png"
+        },
+        "ink": {
+          "url": "board-21-T5H8N-ink.png"
+        },
+        "notes": {
+          "url": "board-21-T5H8N-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-21-T5H8N-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-21-T5H8N-fill.png"
+        }
+      },
+      "number": 24,
+      "shot": "24A",
+      "time": 23000,
+      "lineMileage": 22857.749479063023,
+      "duration": "1000"
+    },
+    {
+      "uid": "LK7DL",
+      "url": "board-21-LK7DL.png",
+      "newShot": false,
+      "lastEdited": 1697690373866,
+      "layers": {
+        "reference": {
+          "url": "board-21-LK7DL-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-21-LK7DL-tone.png"
+        },
+        "pencil": {
+          "url": "board-21-LK7DL-pencil.png"
+        },
+        "ink": {
+          "url": "board-21-LK7DL-ink.png"
+        },
+        "notes": {
+          "url": "board-21-LK7DL-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-21-LK7DL-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-21-LK7DL-fill.png"
+        }
+      },
+      "number": 25,
+      "shot": "25A",
+      "time": 24000,
+      "lineMileage": 26711.872895307264,
+      "notes": "Cuando a la esfera le cae el rectangulo encima se va a aplastar",
+      "duration": "1000"
+    },
+    {
+      "uid": "DGJDE",
+      "url": "board-21-DGJDE.png",
+      "newShot": false,
+      "lastEdited": 1697690613825,
+      "layers": {
+        "reference": {
+          "url": "board-21-DGJDE-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-21-DGJDE-tone.png"
+        },
+        "pencil": {
+          "url": "board-21-DGJDE-pencil.png"
+        },
+        "ink": {
+          "url": "board-21-DGJDE-ink.png"
+        },
+        "notes": {
+          "url": "board-21-DGJDE-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-21-DGJDE-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-21-DGJDE-fill.png"
+        }
+      },
+      "number": 26,
+      "shot": "26A",
+      "time": 25000,
+      "lineMileage": 21604.426686740484,
+      "duration": "1000"
+    },
+    {
+      "uid": "JUG7O",
+      "url": "board-27-JUG7O.png",
+      "newShot": false,
+      "lastEdited": 1697690680807,
+      "layers": {
+        "reference": {
+          "url": "board-27-JUG7O-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-27-JUG7O-tone.png"
+        },
+        "pencil": {
+          "url": "board-27-JUG7O-pencil.png"
+        },
+        "ink": {
+          "url": "board-27-JUG7O-ink.png"
+        },
+        "notes": {
+          "url": "board-27-JUG7O-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-27-JUG7O-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-27-JUG7O-fill.png"
+        }
+      },
+      "number": 27,
+      "shot": "27A",
+      "time": 26000,
+      "lineMileage": 21952.47989103631,
+      "notes": "Sale una esferita desde adentro del rectángulo mayor",
+      "duration": "1000"
+    },
+    {
+      "uid": "B6E6U",
+      "url": "board-27-B6E6U.png",
+      "newShot": false,
+      "lastEdited": 1697690712469,
+      "layers": {
+        "reference": {
+          "url": "board-27-B6E6U-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-27-B6E6U-tone.png"
+        },
+        "pencil": {
+          "url": "board-27-B6E6U-pencil.png"
+        },
+        "ink": {
+          "url": "board-27-B6E6U-ink.png"
+        },
+        "notes": {
+          "url": "board-27-B6E6U-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-27-B6E6U-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-27-B6E6U-fill.png"
+        }
+      },
+      "number": 28,
+      "shot": "28A",
+      "time": 27000,
+      "lineMileage": 22088.347639511536,
+      "duration": "1000"
+    },
+    {
+      "uid": "IZBYF",
+      "url": "board-29-IZBYF.png",
+      "newShot": false,
+      "lastEdited": 1697690715036,
+      "layers": {
+        "reference": {
+          "url": "board-29-IZBYF-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-29-IZBYF-tone.png"
+        },
+        "pencil": {
+          "url": "board-29-IZBYF-pencil.png"
+        },
+        "ink": {
+          "url": "board-29-IZBYF-ink.png"
+        },
+        "notes": {
+          "url": "board-29-IZBYF-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-29-IZBYF-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-29-IZBYF-fill.png"
+        }
+      },
+      "number": 29,
+      "shot": "29A",
+      "time": 28000,
+      "lineMileage": 27233.532233094713,
+      "notes": "Esta puesta como en un pilar",
+      "duration": "1000"
+    },
+    {
+      "uid": "XXEBE",
+      "url": "board-31-XXEBE.png",
+      "newShot": false,
+      "lastEdited": 1697691084132,
+      "layers": {
+        "reference": {
+          "url": "board-31-XXEBE-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-31-XXEBE-tone.png"
+        },
+        "pencil": {
+          "url": "board-31-XXEBE-pencil.png"
+        },
+        "ink": {
+          "url": "board-31-XXEBE-ink.png"
+        },
+        "notes": {
+          "url": "board-31-XXEBE-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-31-XXEBE-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-31-XXEBE-fill.png"
+        }
+      },
+      "number": 30,
+      "shot": "30A",
+      "time": 29000,
+      "lineMileage": 27712.89131344035,
+      "duration": "1000"
+    },
+    {
+      "uid": "0U2Z1",
+      "url": "board-32-0U2Z1.png",
+      "newShot": false,
+      "lastEdited": 1697691099394,
+      "layers": {
+        "reference": {
+          "url": "board-32-0U2Z1-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-32-0U2Z1-tone.png"
+        },
+        "pencil": {
+          "url": "board-32-0U2Z1-pencil.png"
+        },
+        "ink": {
+          "url": "board-32-0U2Z1-ink.png"
+        },
+        "notes": {
+          "url": "board-32-0U2Z1-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-32-0U2Z1-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-32-0U2Z1-fill.png"
+        }
+      },
+      "number": 31,
+      "shot": "31A",
+      "time": 30000,
+      "lineMileage": 28241.970625359358,
+      "duration": "1000"
+    },
+    {
+      "uid": "0YRAG",
+      "url": "board-33-0YRAG.png",
+      "newShot": false,
+      "lastEdited": 1697691099870,
+      "layers": {
+        "reference": {
+          "url": "board-33-0YRAG-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-33-0YRAG-tone.png"
+        },
+        "pencil": {
+          "url": "board-33-0YRAG-pencil.png"
+        },
+        "ink": {
+          "url": "board-33-0YRAG-ink.png"
+        },
+        "notes": {
+          "url": "board-33-0YRAG-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-33-0YRAG-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-33-0YRAG-fill.png"
+        }
+      },
+      "number": 32,
+      "shot": "32A",
+      "time": 31000,
+      "lineMileage": 28246.060188646527,
+      "duration": "1000"
+    },
+    {
+      "uid": "TGQ9F",
+      "url": "board-34-TGQ9F.png",
+      "newShot": false,
+      "lastEdited": 1697691100155,
+      "layers": {
+        "reference": {
+          "url": "board-34-TGQ9F-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-34-TGQ9F-tone.png"
+        },
+        "pencil": {
+          "url": "board-34-TGQ9F-pencil.png"
+        },
+        "ink": {
+          "url": "board-34-TGQ9F-ink.png"
+        },
+        "notes": {
+          "url": "board-34-TGQ9F-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-34-TGQ9F-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-34-TGQ9F-fill.png"
+        }
+      },
+      "number": 33,
+      "shot": "33A",
+      "time": 32000,
+      "lineMileage": 28293.39965659904,
+      "duration": "1000"
+    },
+    {
+      "uid": "Y1ENN",
+      "url": "board-35-Y1ENN.png",
+      "newShot": false,
+      "lastEdited": 1697691128388,
+      "layers": {
+        "reference": {
+          "url": "board-35-Y1ENN-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-35-Y1ENN-tone.png"
+        },
+        "pencil": {
+          "url": "board-35-Y1ENN-pencil.png"
+        },
+        "ink": {
+          "url": "board-35-Y1ENN-ink.png"
+        },
+        "notes": {
+          "url": "board-35-Y1ENN-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-35-Y1ENN-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-35-Y1ENN-fill.png"
+        }
+      },
+      "number": 34,
+      "shot": "34A",
+      "time": 33000,
+      "lineMileage": 28513.631889346016,
+      "notes": "El rectángulo se meta a la esfera (como si la esfera lo hubiera succionado",
+      "duration": "1000"
+    },
+    {
+      "uid": "35063",
+      "url": "board-36-35063.png",
+      "newShot": false,
+      "lastEdited": 1697691168470,
+      "layers": {
+        "reference": {
+          "url": "board-36-35063-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-36-35063-tone.png"
+        },
+        "pencil": {
+          "url": "board-36-35063-pencil.png"
+        },
+        "ink": {
+          "url": "board-36-35063-ink.png"
+        },
+        "notes": {
+          "url": "board-36-35063-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-36-35063-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-36-35063-fill.png"
+        }
+      },
+      "number": 35,
+      "shot": "35A",
+      "time": 34000,
+      "lineMileage": 28752.330309404897,
+      "notes": "Va entrando un rectángulo bebé",
+      "duration": "1000"
+    },
+    {
+      "uid": "FN730",
+      "url": "board-37-FN730.png",
+      "newShot": false,
+      "lastEdited": 1697691179327,
+      "layers": {
+        "reference": {
+          "url": "board-37-FN730-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-37-FN730-tone.png"
+        },
+        "pencil": {
+          "url": "board-37-FN730-pencil.png"
+        },
+        "ink": {
+          "url": "board-37-FN730-ink.png"
+        },
+        "notes": {
+          "url": "board-37-FN730-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-37-FN730-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-37-FN730-fill.png"
+        }
+      },
+      "number": 36,
+      "shot": "36A",
+      "time": 35000,
+      "lineMileage": 28961.622684705002,
+      "duration": "1000"
+    },
+    {
+      "uid": "F0SGN",
+      "url": "board-38-F0SGN.png",
+      "newShot": false,
+      "lastEdited": 1697691179780,
+      "layers": {
+        "reference": {
+          "url": "board-38-F0SGN-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-38-F0SGN-tone.png"
+        },
+        "pencil": {
+          "url": "board-38-F0SGN-pencil.png"
+        },
+        "ink": {
+          "url": "board-38-F0SGN-ink.png"
+        },
+        "notes": {
+          "url": "board-38-F0SGN-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-38-F0SGN-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-38-F0SGN-fill.png"
+        }
+      },
+      "number": 37,
+      "shot": "37A",
+      "time": 36000,
+      "lineMileage": 29265.250362325176,
+      "duration": "1000"
+    },
+    {
+      "uid": "SA5PS",
+      "url": "board-39-SA5PS.png",
+      "newShot": false,
+      "lastEdited": 1697691179999,
+      "layers": {
+        "reference": {
+          "url": "board-39-SA5PS-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-39-SA5PS-tone.png"
+        },
+        "pencil": {
+          "url": "board-39-SA5PS-pencil.png"
+        },
+        "ink": {
+          "url": "board-39-SA5PS-ink.png"
+        },
+        "notes": {
+          "url": "board-39-SA5PS-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-39-SA5PS-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-39-SA5PS-fill.png"
+        }
+      },
+      "number": 38,
+      "shot": "38A",
+      "time": 37000,
+      "lineMileage": 29235.61984633394,
+      "duration": "1000"
+    },
+    {
+      "uid": "MA5GN",
+      "url": "board-40-MA5GN.png",
+      "newShot": false,
+      "lastEdited": 1697691210522,
+      "layers": {
+        "reference": {
+          "url": "board-40-MA5GN-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-40-MA5GN-tone.png"
+        },
+        "pencil": {
+          "url": "board-40-MA5GN-pencil.png"
+        },
+        "ink": {
+          "url": "board-40-MA5GN-ink.png"
+        },
+        "notes": {
+          "url": "board-40-MA5GN-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-40-MA5GN-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-40-MA5GN-fill.png"
+        }
+      },
+      "number": 39,
+      "shot": "39A",
+      "time": 38000,
+      "lineMileage": 29643.599870149796,
+      "duration": "1000"
+    },
+    {
+      "uid": "O4DQR",
+      "url": "board-41-O4DQR.png",
+      "newShot": false,
+      "lastEdited": 1697691286001,
+      "layers": {
+        "reference": {
+          "url": "board-41-O4DQR-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-41-O4DQR-tone.png"
+        },
+        "pencil": {
+          "url": "board-41-O4DQR-pencil.png"
+        },
+        "ink": {
+          "url": "board-41-O4DQR-ink.png"
+        },
+        "notes": {
+          "url": "board-41-O4DQR-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-41-O4DQR-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-41-O4DQR-fill.png"
+        }
+      },
+      "number": 40,
+      "shot": "40A",
+      "time": 39000,
+      "lineMileage": 30612.030394859197,
+      "notes": "Cuando la barrita amarilla llegue a su posición final van a aparecer los huecos negros que lo que van a hacer es básicamente carcomerse a las otras figuras que estaban ahí y se va a ver un hoyo que deja ver la figura negra de fondo que fue la primera en entrar",
+      "duration": "1000"
+    },
+    {
+      "uid": "MYR5F",
+      "url": "board-42-MYR5F.png",
+      "newShot": false,
+      "lastEdited": 1697691496356,
+      "layers": {
+        "reference": {
+          "url": "board-42-MYR5F-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-42-MYR5F-tone.png"
+        },
+        "pencil": {
+          "url": "board-42-MYR5F-pencil.png"
+        },
+        "ink": {
+          "url": "board-42-MYR5F-ink.png"
+        },
+        "notes": {
+          "url": "board-42-MYR5F-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-42-MYR5F-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-42-MYR5F-fill.png"
+        }
+      },
+      "number": 41,
+      "shot": "41A",
+      "time": 40000,
+      "lineMileage": 30612.030394859197,
+      "duration": "1000"
+    },
+    {
+      "uid": "WZIB5",
+      "url": "board-43-WZIB5.png",
+      "newShot": false,
+      "lastEdited": 1697691496848,
+      "layers": {
+        "reference": {
+          "url": "board-43-WZIB5-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-43-WZIB5-tone.png"
+        },
+        "pencil": {
+          "url": "board-43-WZIB5-pencil.png"
+        },
+        "ink": {
+          "url": "board-43-WZIB5-ink.png"
+        },
+        "notes": {
+          "url": "board-43-WZIB5-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-43-WZIB5-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-43-WZIB5-fill.png"
+        }
+      },
+      "number": 42,
+      "shot": "42A",
+      "time": 41000,
+      "lineMileage": 30612.030394859197,
+      "duration": "1000"
+    },
+    {
+      "uid": "UQR7M",
+      "url": "board-44-UQR7M.png",
+      "newShot": false,
+      "lastEdited": 1697691498654,
+      "layers": {
+        "reference": {
+          "url": "board-44-UQR7M-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-44-UQR7M-tone.png"
+        },
+        "pencil": {
+          "url": "board-44-UQR7M-pencil.png"
+        },
+        "ink": {
+          "url": "board-44-UQR7M-ink.png"
+        },
+        "notes": {
+          "url": "board-44-UQR7M-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-44-UQR7M-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-44-UQR7M-fill.png"
+        }
+      },
+      "number": 43,
+      "shot": "43A",
+      "time": 42000,
+      "lineMileage": 33057.376827970176,
+      "notes": "Después de unos segundos con la escena completa. Aparece la UI",
+      "duration": "1000"
+    },
+    {
+      "uid": "26BSC",
+      "url": "board-44-26BSC.png",
+      "newShot": false,
+      "lastEdited": 1697692033915,
+      "layers": {
+        "reference": {
+          "url": "board-44-26BSC-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-44-26BSC-tone.png"
+        },
+        "pencil": {
+          "url": "board-44-26BSC-pencil.png"
+        },
+        "ink": {
+          "url": "board-44-26BSC-ink.png"
+        },
+        "notes": {
+          "url": "board-44-26BSC-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-44-26BSC-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-44-26BSC-fill.png"
+        }
+      },
+      "number": 44,
+      "shot": "44A",
+      "time": 43000,
+      "lineMileage": 33057.376827970176,
+      "notes": "Que haya un botón para:\n- que entre la gravedad (todo lo que no está bien apoyado se cae)\n- Que aparezca una \"balita\" que aplica fuerzas que se pueda mover con las flechas (digamos que podría empujar a los rectángulos bebes)\n",
+      "duration": "1000"
+    }
+  ]
+}

@@ -8,6 +8,12 @@ Un manual sobre los componentes básicos y más usados de una interfaz gráfica.
 
 ## Estructura Repositorio
 
+### Proyecto Integral Unity 1
+
+[ReadMe Proyecto](ProyectoIntegralUnity1/README.md)
+
+La idea de este proyecto es incluir en un mismo lugar los espectos fundamentales de Unity que se tocan en los siguientes 3 proyectos.
+
 ### Explosión Objetos
 
 [ReadMe Proyecto](ExplosionCubos/README.md)
