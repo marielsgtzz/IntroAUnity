@@ -21,16 +21,26 @@ El proyecto partirá de un storyboard donde se cuente una historia de tal forma 
   - rota
   - rebota
   - desaparezca
+  - se escala (en mayor o menor tamaño)
 
-- Deben de haber reflectores x & y.
+- Deben de haber reflectores puntuales omnidireccionales & direccionales.
+
   - Se deben de poder mover en la escena
+
 - Los movimientos de los objetos ocurren con al menos 2 velocidades distintas
+
 - Texturas:
   - Mínimo 1 objeto con textura mate (que no sea un color sólido)
-  - Mínimo 1 objeto con textura metálica
+  - Mínimo 1 objeto con textura metálica (que tenga reflexión difusa)
 
 ## Conceptos implementados
+
+Ver lista de [conceptos utilizados](ConceptosGraficas.md) y sus guías.
 
 ## Herramientas adicionales
 
 Para el storyboard Wonderunit tiene [Storyboarder](https://wonderunit.com/storyboarder/faq/#How-do-I-get-started) que es un software para crear y acomodar storyboard en 2 y 3D.
+
+## Ejemplos
+
+### Pelota rebotando

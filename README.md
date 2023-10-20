@@ -1,5 +1,11 @@
 # Intro a Unity
 
+## Uso de Git y Github con Unity
+
+Al crear un proyecto en Unity se generan muchos archivos que no son necesarios subir a Github para su funcionamiento (en su mayoría estos archivos son logs del proyecto que se pueden generar en cada computadora).
+
+El propósito de no incluirlos en el repositorio es que Github no permite subir archivos mayores a `100MB` a menos que esté activo `LFS` (Large File System) en el repo (aún así esta opción tiene un límite mensual).
+
 ## Intro a interfaces gráficas
 
 Un manual sobre los componentes básicos y más usados de una interfaz gráfica.
