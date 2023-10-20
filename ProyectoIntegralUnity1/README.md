@@ -8,7 +8,7 @@ La idea es usar esta imagen como referencia para crear un proyecto en Unity que 
 
 El proyecto partirá de un storyboard donde se cuente una historia de tal forma que cuando inicie el proyecto la vista esté vacía y poco a poco entren figuras con el objetivo de que se forme la imagen anterior.
 
-[Storyboard: (Rough Draft)](ProyectoIntegralUnity1Storyboard/exports/ProyectoIntegralUnity1Storyboard.gif) Si se abre el proyecto de Storyboarder se pueden observar los comentarios de las escenas.
+[Storyboard: (Rough Draft)](ProyectoIntegralUnity1Stroyboard/exports/ProyectoIntegralUnity1Stroyboard.gif) Si se abre el proyecto de Storyboarder se pueden observar los comentarios de las escenas.
 
 ### Requisitos
 
