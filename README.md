@@ -6,6 +6,12 @@ Al crear un proyecto en Unity se generan muchos archivos que no son necesarios s
 
 El propósito de no incluirlos en el repositorio es que Github no permite subir archivos mayores a `100MB` a menos que esté activo `LFS` (Large File System) en el repo (aún así esta opción tiene un límite mensual).
 
+Cuando se crea un repositorio en Github existe la opción de agregar un archivo `README.md` y un `.gitignore`.
+
+La plataforma tiene diferentes plantillas para el `.gitignore` dependiendo la naturaleza del repositorio, para Unity recomiendan usar [esta](https://github.com/github/gitignore/blob/main/Unity.gitignore) plantilla.
+
+El propósito del `.gitignore` es que cuando se ejecute el comando `git add .` no se incluyan todos los archivos del `.gitignore` en la etapa de `staging`.
+
 ## Intro a interfaces gráficas
 
 Un manual sobre los componentes básicos y más usados de una interfaz gráfica.
