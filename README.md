@@ -12,6 +12,14 @@ La plataforma tiene diferentes plantillas para el `.gitignore` dependiendo la na
 
 El propósito del `.gitignore` es que cuando se ejecute el comando `git add .` no se incluyan todos los archivos del `.gitignore` en la etapa de `staging`.
 
+### Evitar merge conflicts
+
+Cuando se trabaja en la escena cambia su script, y resolver merge conflicts cuando más de una persona trabaja en la escena se vuelve algo complicado.
+
+Una buena práctica es no trabajar la escena simultáneamente de forma directa, para esto es útil el uso de [prefabs](InicioProyecto.md#prefabs).
+
+Si se quiere editar un objeto de la escena es mejor volverlo un `prefab` y agregar el prefab a la escena, las modificaciones hay que hacerlas directamente al prefab, de esa forma no cambia el archivo de la escena (se evitan merge conflicts) ya que lo que cambia es el archivo del prefab que idealmente solo está siendo trabajado por una persona a la vez.
+
 ## Intro a interfaces gráficas
 
 Un manual sobre los componentes básicos y más usados de una interfaz gráfica.
