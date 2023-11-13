@@ -18,6 +18,12 @@ Un manual sobre los componentes básicos y más usados de una interfaz gráfica.
 
 [Explicacion GUI](InterfazDeUsuario.md)
 
+## Como exportar de Unity a un dispositivo
+
+Un manual sobre los pasos a seguir para tener las experiencias en iOS o Android.
+
+[Explicacion exportación](ExportarUnaExperiencia.md)
+
 ## Estructura Repositorio
 
 ### Proyecto Integral Unity 1
