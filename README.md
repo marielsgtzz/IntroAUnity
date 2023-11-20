@@ -1,5 +1,9 @@
 # Intro a Unity
 
+## Empezar un proyecto 3D en Unity
+
+Más información [aquí](InicioProyecto.md).
+
 ## Uso de Git y Github con Unity
 
 Al crear un proyecto en Unity se generan muchos archivos que no son necesarios subir a Github para su funcionamiento (en su mayoría estos archivos son logs del proyecto que se pueden generar en cada computadora).

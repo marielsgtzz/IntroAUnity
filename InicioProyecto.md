@@ -17,12 +17,14 @@ Las ventanas principales dentro del Unity Editor son:
   - Es donde se agregan los diferentes objetos y donde se puede interactuar con ellos para acomodarlos.
 - `Game`
   - Es la imagen de lo que se ve cuando se inicia el juego/experiencia/animación/etc
+  - **IMPORTANTE** los cambios que realices cuando está el juego en play son cambios que no se van a guardar en la escena, para que se queden necesitas que esté en pausa.
 - `Hierarchy`
   - Donde podemos ver y reorganizar los objetos de la **escena**
 - `Project`
   - Tenemos el folder de assets que es donde vamos a tener los archivos (scripts, escenas, prefabs, modelos, materiales, etc) que vamos a usar en el proyecto. Recomiendo que cada tipo de archivo tenga su propia carpeta
 - `Inspector`
   - Al seleccionar un objeto de la ventana de hierarchy, en la ventana de inspector vamos a poder ver las propiedades y detalles de dicho objeto
+  - Cuando le picamos a otros objetos el inspector cambia, si queremos que se quede un inspector en concreto, en la parte superior derecha del mismo hay un candado
 
 Recomiendo poner la `Game view` a lado de la `Scene view` para observar los cambios de la escena.
 
@@ -73,6 +75,11 @@ Para agregar un objeto a la escena hay que posicionarse en la ventana de Hierach
 ![agregarObjeto.png](imgMds/agregarObjeto.png).
 
 Si no se quiere una de las formas default pero más bien un modelo importado el proceso es similar, hay que arrastar el modelo a la ventana de hierarchy.
+
+En el inspector una vez seleccionado el objeto podemos cambiarle el nombre, agregarle etiquetas (`tags`) y especificar en que capa está situado. Si lo definimos como `static` le estamos diciendo a Unity que va a ser un objeto que no se va a mover.
+
+Podemos emparentar objetos, esto hace que las transformaciones aplicadas al "padre" también afectarán al "hijo". (si muevo el piso se mueve el cubo, si muevo el cubo solo se mueve ese objeto)
+<img src="imgMds/emparentarObjetos.png" alt="emparentarObjetos" height="200">
 
 ### Prefabs
 
